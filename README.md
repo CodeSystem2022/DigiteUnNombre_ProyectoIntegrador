@@ -54,6 +54,6 @@ dentro del archivo conexion por los datos necesarios para que puedan conectar:
 
   cualquier duda o consulta, no duden en contactarnos.
 
-  ## Team Digite un nombre......
+  ## Team Digite un nombre.....
 
             
