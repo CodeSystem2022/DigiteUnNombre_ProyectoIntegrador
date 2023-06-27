@@ -1,4 +1,4 @@
-# DigiteUnNombre_ProyectoIntegrador.
+# DigiteUnNombre_ProyectoIntegrador
 Proyecto integrador perteneciente al tercer semestre de la tecnicatura en programación UTN - San Rafael
 
 ![image](https://github.com/CodeSystem2022/DigiteUnNombre_ProyectoIntegrador/assets/113527033/1f879d5d-42a7-4aea-9a50-68603b4d2496)
